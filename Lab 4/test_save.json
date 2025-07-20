@@ -1,0 +1,17 @@
+{
+  "board": [
+    "X",
+    "O",
+    " ",
+    " ",
+    " ",
+    " ",
+    " ",
+    " ",
+    " "
+  ],
+  "current_player": "X",
+  "game_over": false,
+  "winner": null,
+  "moves_count": 2
+}
